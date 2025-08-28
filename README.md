@@ -114,61 +114,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧮 **Algorithm Mastery & Advanced Concepts**
-
-<div align="center">
-
-<details>
-<summary><b>🔍 Search & Sort</b></summary>
-<br>
-Binary Search • Quick Sort • Merge Sort • Heap Sort • Radix Sort
-</details>
-
-<details>
-<summary><b>🌐 Graph Theory</b></summary>
-<br>
-DFS • BFS • Dijkstra • A* • Floyd-Warshall • Bellman-Ford • MST
-</details>
-
-<details>
-<summary><b>📊 Dynamic Programming</b></summary>
-<br>
-Knapsack • LCS • Edit Distance • Coin Change • Matrix Chain
-</details>
-
-<details>
-<summary><b>🌳 Tree Algorithms</b></summary>
-<br>
-AVL • Red-Black • Segment Trees • Fenwick Trees • Trie
-</details>
-
-<details>
-<summary><b>🤖 Machine Learning</b></summary>
-<br>
-Neural Networks • CNN • RNN • Transformer • GAN
-</details>
-
-<details>
-<summary><b>🔐 Cryptography</b></summary>
-<br>
-RSA • AES • SHA • Digital Signatures • Blockchain Protocols
-</details>
-
-<details>
-<summary><b>⚡ Optimization</b></summary>
-<br>
-Genetic Algorithm • Particle Swarm • Simulated Annealing
-</details>
-
-<details>
-<summary><b>🧩 Advanced Structures</b></summary>
-<br>
-Bloom Filters • Skip Lists • B+ Trees • Hash Tables
-</details>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 📊 **GitHub Analytics Dashboard**
@@ -278,62 +223,186 @@ Bloom Filters • Skip Lists • B+ Trees • Hash Tables
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 **Current Mission & Future Vision**
+## 🧮 **Algorithm Mastery & Advanced Concepts**
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=800&lines=🚀+Mission+Control+Center;🌟+Future+Vision+Dashboard" alt="Mission Title" />
-
-```typescript
-interface Revolutionary {
-  learning: string[];
-  building: string[];
-  collaborating: string[];
-  vision: string;
-  impact: string;
-  motto: string;
-}
-
-const myJourney: Revolutionary = {
-  learning: [
-    "🧠 Advanced Quantum Computing",
-    "🔮 Next-Gen AI/ML Algorithms", 
-    "🌐 Web3 & Decentralized Systems",
-    "🚀 Space Technology & IoT",
-    "💎 Blockchain Innovations",
-    "🎯 Neural Network Architectures",
-    "⚡ Edge Computing Solutions"
-  ],
   
-  building: [
-    "🤖 Revolutionary AI Automation Platform",
-    "🌈 Vietnam's Digital Transformation Hub",
-    "⚡ Real-time Analytics Dashboard",
-    "🔥 Open Source Innovation Framework"
-  ],
-  
-  collaborating: [
-    "🌟 Global Tech Communities",
-    "🚀 Startup Incubators", 
-    "💡 Research Institutions",
-    "🎯 Innovation Labs Worldwide"
-  ],
-  
-  vision: "🌍 Empowering Vietnam to lead Asia's Tech Revolution",
-  impact: "💫 Creating solutions that change millions of lives",
-  motto: "🔥 Code with Purpose, Innovate with Passion, Build the Future! 🚀"
-};
+### 🔥 **LEGENDARY LEVEL EXPERTISE** 🔥
 
-// The journey continues...
-console.log("🌟 Every day is a new opportunity to build tomorrow!");
-console.log("💡 From Vietnam to the World - Technology knows no borders!");
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=🚀+Algorithm+Mastery+Level:+LEGENDARY;🎯+50%2B+Advanced+Algorithms+Mastered;💡+Always+Optimizing+%26+Innovating!" alt="Algorithm Mastery" />
+</div>
+
+---
+
+### 🎯 **Core Algorithm Categories**
+
+<details>
+<summary><b>🔍 Search & Sorting Algorithms</b> <img src="https://img.shields.io/badge/Mastery-5%2F5-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" alt="Search & Sort"></summary>
+
+<div align="center">
+  
+![Binary Search](https://img.shields.io/badge/Binary_Search-Expert-ff6b6b?style=for-the-badge&logo=searchengin&logoColor=white)
+![Quick Sort](https://img.shields.io/badge/Quick_Sort-Expert-4ecdc4?style=for-the-badge&logo=databricks&logoColor=white)
+![Merge Sort](https://img.shields.io/badge/Merge_Sort-Expert-45b7d1?style=for-the-badge&logo=git-merge&logoColor=white)
+![Heap Sort](https://img.shields.io/badge/Heap_Sort-Expert-f9ca24?style=for-the-badge&logo=heap&logoColor=white)
+![Radix Sort](https://img.shields.io/badge/Radix_Sort-Expert-6c5ce7?style=for-the-badge&logo=radix-ui&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>📊 Graph Theory & Networks</b> <img src="https://img.shields.io/badge/Mastery-5%2F5-brightgreen?style=flat-square&logo=graphql&logoColor=white" alt="Graph Theory"></summary>
+
+<div align="center">
+  
+![DFS](https://img.shields.io/badge/DFS-Expert-e17055?style=for-the-badge&logo=tree&logoColor=white)
+![BFS](https://img.shields.io/badge/BFS-Expert-f0932b?style=for-the-badge&logo=breadcrumb&logoColor=white)
+![Dijkstra](https://img.shields.io/badge/Dijkstra-Expert-eb4d4b?style=for-the-badge&logo=path&logoColor=white)
+![A*](https://img.shields.io/badge/A*-Expert-6ab04c?style=for-the-badge&logo=star&logoColor=white)
+![Floyd Warshall](https://img.shields.io/badge/Floyd_Warshall-Expert-130f40?style=for-the-badge&logo=matrix&logoColor=white)
+![MST](https://img.shields.io/badge/MST-Expert-30336b?style=for-the-badge&logo=tree&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>⚡ Dynamic Programming</b> <img src="https://img.shields.io/badge/Mastery-5%2F5-brightgreen?style=flat-square&logo=lightning&logoColor=white" alt="Dynamic Programming"></summary>
+
+<div align="center">
+  
+![Knapsack](https://img.shields.io/badge/Knapsack-Expert-ff9ff3?style=for-the-badge&logo=bag&logoColor=white)
+![LCS](https://img.shields.io/badge/LCS-Expert-54a0ff?style=for-the-badge&logo=sequence&logoColor=white)
+![Edit Distance](https://img.shields.io/badge/Edit_Distance-Expert-5f27cd?style=for-the-badge&logo=edit&logoColor=white)
+![Coin Change](https://img.shields.io/badge/Coin_Change-Expert-00d2d3?style=for-the-badge&logo=coins&logoColor=white)
+![Matrix Chain](https://img.shields.io/badge/Matrix_Chain-Expert-ff6348?style=for-the-badge&logo=matrix&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🌲 Advanced Tree Structures</b> <img src="https://img.shields.io/badge/Mastery-5%2F5-brightgreen?style=flat-square&logo=tree&logoColor=white" alt="Tree Algorithms"></summary>
+
+<div align="center">
+  
+![AVL](https://img.shields.io/badge/AVL-Expert-2ed573?style=for-the-badge&logo=tree&logoColor=white)
+![Red Black](https://img.shields.io/badge/Red_Black-Expert-ff4757?style=for-the-badge&logo=tree&logoColor=white)
+![Segment Trees](https://img.shields.io/badge/Segment_Trees-Expert-3742fa?style=for-the-badge&logo=tree&logoColor=white)
+![Fenwick Trees](https://img.shields.io/badge/Fenwick_Trees-Expert-2f3542?style=for-the-badge&logo=tree&logoColor=white)
+![Trie](https://img.shields.io/badge/Trie-Expert-ff6b6b?style=for-the-badge&logo=tree&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning & AI</b> <img src="https://img.shields.io/badge/Mastery-5%2F5-brightgreen?style=flat-square&logo=brain&logoColor=white" alt="Machine Learning"></summary>
+
+<div align="center">
+  
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-Expert-ff6b6b?style=for-the-badge&logo=brain&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Expert-4ecdc4?style=for-the-badge&logo=convex&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-Expert-45b7d1?style=for-the-badge&logo=recycle&logoColor=white)
+![Transformer](https://img.shields.io/badge/Transformer-Expert-f9ca24?style=for-the-badge&logo=transform&logoColor=white)
+![GAN](https://img.shields.io/badge/GAN-Expert-6c5ce7?style=for-the-badge&logo=generate&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🔐 Cryptography & Security</b> <img src="https://img.shields.io/badge/Mastery-5%2F5-brightgreen?style=flat-square&logo=lock&logoColor=white" alt="Cryptography"></summary>
+
+<div align="center">
+  
+![RSA](https://img.shields.io/badge/RSA-Expert-e17055?style=for-the-badge&logo=key&logoColor=white)
+![AES](https://img.shields.io/badge/AES-Expert-f0932b?style=for-the-badge&logo=shield&logoColor=white)
+![SHA](https://img.shields.io/badge/SHA-Expert-eb4d4b?style=for-the-badge&logo=fingerprint&logoColor=white)
+![Digital Signatures](https://img.shields.io/badge/Digital_Signatures-Expert-6ab04c?style=for-the-badge&logo=signature&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-Expert-130f40?style=for-the-badge&logo=blockchain&logoColor=white)
+
+</div>
+</details>
+
+---
+
+### 🎯 **Achievement Stats**
+
+<div align="center">
+  
+![Algorithm Count](https://img.shields.io/badge/Algorithms_Mastered-50%2B-gold?style=for-the-badge&logo=trophy&logoColor=white)
+![Skill Level](https://img.shields.io/badge/Skill_Level-LEGENDARY-ff6b6b?style=for-the-badge&logo=fire&logoColor=white)
+![Innovation](https://img.shields.io/badge/Innovation_Mindset-ALWAYS_ON-brightgreen?style=for-the-badge&logo=lightbulb&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00d4ff&center=true&vCenter=true&width=700&lines=🚀+Always+optimizing%2C+always+improving%2C+always+innovating!;💡+Code+with+Purpose%2C+Build+the+Future!" alt="Innovation Motto" />
+</div>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
+
+## 🎯 **Current Mission & Future Vision**
+
 <div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=800&lines=🚀+Mission+Control+Center;🌟+Future+Vision+Dashboard" alt="Mission Title" />
+
+### 🎓 **Currently Learning & Mastering**
+
+![Quantum Computing](https://img.shields.io/badge/🧠_Quantum_Computing-Learning-blueviolet?style=for-the-badge&logo=quantum&logoColor=white)
+![Next-Gen AI](https://img.shields.io/badge/🔮_Next--Gen_AI-Learning-ff6b6b?style=for-the-badge&logo=ai&logoColor=white)
+![Web3](https://img.shields.io/badge/🌐_Web3_Systems-Learning-4ecdc4?style=for-the-badge&logo=web3&logoColor=white)
+![Space Tech](https://img.shields.io/badge/🚀_Space_Technology-Learning-45b7d1?style=for-the-badge&logo=space&logoColor=white)
+![Blockchain](https://img.shields.io/badge/💎_Blockchain_Innovation-Learning-f9ca24?style=for-the-badge&logo=blockchain&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/🎯_Neural_Architecture-Learning-6c5ce7?style=for-the-badge&logo=brain&logoColor=white)
+![Edge Computing](https://img.shields.io/badge/⚡_Edge_Computing-Learning-e17055?style=for-the-badge&logo=edge&logoColor=white)
+
+### 🛠️ **Currently Building**
+
+<div align="center">
+  
+![AI Platform](https://img.shields.io/badge/🤖_Revolutionary_AI_Platform-Building-success?style=for-the-badge&logo=robot&logoColor=white)
+![Digital Hub](https://img.shields.io/badge/🌈_Vietnam_Digital_Hub-Building-info?style=for-the-badge&logo=hub&logoColor=white)
+![Analytics](https://img.shields.io/badge/⚡_Real--time_Analytics-Building-warning?style=for-the-badge&logo=analytics&logoColor=white)
+![Framework](https://img.shields.io/badge/🔥_Innovation_Framework-Building-critical?style=for-the-badge&logo=framework&logoColor=white)
+
+</div>
+
+### 🤝 **Collaborating With**
+
+<div align="center">
+  
+![Global Tech](https://img.shields.io/badge/🌟_Global_Tech_Communities-Active-brightgreen?style=flat-square&logo=global&logoColor=white)
+![Startups](https://img.shields.io/badge/🚀_Startup_Incubators-Active-blue?style=flat-square&logo=startup&logoColor=white)
+![Research](https://img.shields.io/badge/💡_Research_Institutions-Active-yellow?style=flat-square&logo=research&logoColor=white)
+![Innovation Labs](https://img.shields.io/badge/🎯_Innovation_Labs-Active-red?style=flat-square&logo=lab&logoColor=white)
+
+</div>
+
+---
+
+### 🌟 **Vision & Impact**
+
+<div align="center">
+  
+> ### 🌍 **"Empowering Vietnam to lead Asia's Tech Revolution"**
+> 
+> ### 💫 **"Creating solutions that change millions of lives"**
+> 
+> ### 🔥 **"Code with Purpose, Innovate with Passion, Build the Future!"** 🚀
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=00ff41&center=true&vCenter=true&width=800&lines=🌟+Every+day+is+a+new+opportunity+to+build+tomorrow!;💡+From+Vietnam+to+the+World+-+Technology+knows+no+borders!;🚀+The+journey+continues..." alt="Vision Statement" />
+</div>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✨ **"The Future Belongs to Those Who Code It"** ✨
 
