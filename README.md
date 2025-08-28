@@ -120,12 +120,23 @@
 
 <div align="center">
 
-### 🏆 **Achievement Showcase**
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=🏆+Hall+of+Fame;⭐+Legendary+Achievements" alt="Achievement Title" />
+## 🏆 Achievement Showcase
 
-<p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=kzkhanhh&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="Trophy Stats"/>
-</p>
+<div align="center">
+  
+### ✨ Hall of Fame ✨
+*Legendary Achievements & Milestones*
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kzkhanhh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+---
+
+### 🌟 **Featured Accomplishments**
+*Building the future, one commit at a time*
+
+</div>
 
 ### 📈 **Performance Metrics Matrix**
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1800&pause=400&color=00D4FF&center=true&vCenter=true&width=600&lines=📊+Performance+Analytics;🔥+Coding+Statistics" alt="Stats Title" />
